@@ -1,0 +1,29 @@
+.main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.description{
+    font-weight: bolder;
+}
+
+.label-input{
+    margin-top: 6px;
+}
+
+.continents{
+    margin-top: 6px;
+}
+
+.textarea{
+    margin-top:6px;
+}
